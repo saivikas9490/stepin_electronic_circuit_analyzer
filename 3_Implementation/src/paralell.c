@@ -7,7 +7,7 @@ double paralell(int res, MainMenu *inductance, MainMenu *capacitance, MainMenu *
      */
     if(res == 1){
         // Total number of resistors used in the config
-        printf("Enter number of resistors : ");
+        printf("Enter the number of resistors : ");
         scanf("%d",&resistance->number);
 
         printf(" Do you know the values of the resistors?(1.y/2.n): ");
