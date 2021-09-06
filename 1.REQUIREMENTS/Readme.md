@@ -44,7 +44,7 @@ The system has the following benefits:
 
 ## SWOT ANALYSIS
 
-# 4W and 1H 
+# 4W's 1H's 
 
 ## Who
 
