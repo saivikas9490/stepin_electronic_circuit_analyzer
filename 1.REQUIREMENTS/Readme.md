@@ -1,10 +1,10 @@
 # Requirements
 ## Introduction
-*   Electronic circuit analyzer: The following application will be able to help any electronics engineer to analyse and find the various variables and problems when it comes to circuits. It will be able to do the following:
-     1. Calculate the resistance of individual components and the resistance of the circuit: a) Series b) parallel
-     2. Calculate the overall current in the circuit and the voltage through the components mentioned
-     3. Calculate the impedance based on the type of circuit
-     4. Calculate the power consumed by the whole circuit.
+*   Electronic circuit analyzer: The following application will be able to help any electronics engineer to analyse and find the various variables and problems when it comes to circuits. It will be able to do the following :
+        1.  Calculate the resistance of individual components and the resistance of the circuit: a) Series b) parallel
+        2.  Calculate the overall current in the circuit and the voltage through the components mentioned
+        3.  Calculate the impedance based on the type of circuit
+        4.  Calculate the power consumed by the whole circuit.
 
 ## Research
 *   Being an electronics engineer myself, as a student while making projects, it used to be a very tedious task for me especially during handling hardware circuits to balance the resistance and voltage accross the circuit and keep the resistance and current on the overall circuit in check. The main problems occured when the resistances were too many and the calculations differed as per the values in series and paralell. For any electronics engineer, the overalll resistance in the circuit, impedance in RLC and power calculations for the circuit to determine how long will it work for in real time were the major tasks. So, in order to shorten the calculation time and make the process automated and without human-made errors, the following system has been designed. An electronic circuit analyzer is helpful for all who are doing anything with hardware electronic or electrical circuits. It helps in determining the resistor values based on the color codes, helps determining system current based on its series or paralell architecture and also helps in calculating the overall power of the circuit and how long will the circuit work on a given impedance.
@@ -34,17 +34,17 @@ The system has the following benefits:
 
 ## Defining Our System
 *   The Electronic Circuit Analyzer can perform the following actions:
-     1. Provide information on the following:
-        a) Resistor values based on the color codes
-        b) Impedance and reactance values for one or many components
-        c) Battery power consumption information based on the battery type.
-     2. Circuit analysis:
-        a) Series Circuit analysis - resistance, current, voltage accross individual components
-        b) Paralell circuit analysis - resistance, current, voltage accross individual components
-        c) Power and lifetime analysis of the whole circuit.
+       1. Provide information on the following:
+          a) Resistor values based on the color codes
+          b) Impedance and reactance values for one or many components
+          c) Battery power consumption information based on the battery type.
+       2. Circuit analysis:
+          a) Series Circuit analysis - resistance, current, voltage accross individual components
+          b) Paralell circuit analysis - resistance, current, voltage accross individual components
+          c) Power and lifetime analysis of the whole circuit.
 ## SWOT ANALYSIS
 
-# 4W&#39;s and 1&#39;H
+# 4W& 39;s and 1& 39;H
 
 ## Who
 
