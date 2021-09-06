@@ -79,7 +79,6 @@ The system has the following benefits:
 | HLR07 | User will be able to identify the overall resistance/impedance/admittance/reactance of a mixed series/paralell/RLC circuit based on the inputs | Technical | FUTURE |
 | HLR08 | User will be able to identify the circuit life in days based on the input battery and power rating | Technical | TBD |
 
-
 ## Low level Requirements
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|

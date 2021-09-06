@@ -1,4 +1,4 @@
-# TEST PLAN:
+# TEST PLAN
 
 ## Table no: High level test plan
 
@@ -10,7 +10,6 @@
 |  H_04       | Testing series resistance based on the input parameters for resistive, capacitive, inductive and RLC circuits | checking parameter, function pointers based on the respective reactance values | Series overall reactance based on circuit type and current value | Not passed | Scenario based |
 |  H_05       | Testing parallel resistance based on the input parameters for resistive, capacitive, inductive and RLC circuits | checking parameter, function pointers based on the respective reactance values | parallel overall reactance based on circuit type and current value | Not passed | Scenario based |
 |  H_06       | Testing power and life expectancy of the battery based on the voltage, current, time and power rating inputs | voltage, current, time and power rating | power rating of the battery and batter life in days depending on the user choice | Same as expected, Action passed | Requirement based |
-
 
 ## Table no: Low level test plan
 
