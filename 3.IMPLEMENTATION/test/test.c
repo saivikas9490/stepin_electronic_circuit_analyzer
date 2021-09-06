@@ -22,11 +22,6 @@ void test_inductor(void);
 int main()
 {
   MainMenu *frequency, *capacitance, *inductance, *battery, *resistance, freq, res, induc, cap, bat;
-  frequency = &freq;
-  capacitance = &cap;
-  inductance = &induc;
-  resistance = &res;
-  battery = &bat;
 /* Initiate the Unity Test Framework */
   UNITY_BEGIN();
 
