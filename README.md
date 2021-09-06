@@ -22,9 +22,11 @@ Feature  | Description
 
 ## Challenges Faced and How Was It Overcome
 
-1. ### To implement structure as pointers and use as less variables as possible in a menu based system 
-        - The challenge was overcome by using typedef, globally declaring structures and passing pointers as arguments in functions.
-2. ### To manage time with internship and building and learning the project workflows and github 
-        - The challenge was overcome by managing time and starting the day early with tutorals, looking at github accounts for reference and coding at night after learning from various external sites.
-3. ### To impleent unit test cases for the first time 
-        - The challenge was overcome by watching tutorials, reffering to L&T platforms like Futureskills.
+1.  ###  To implement structure as pointers and use as less variables as possible in a menu based system 
+         - The challenge was overcome by using typedef, globally declaring structures and passing pointers as arguments in functions.
+
+2.  ###  To manage time with internship and building and learning the project workflows and github 
+         - The challenge was overcome by managing time and starting the day early with tutorals, looking at github accounts for  reference and coding at night after learning from various external sites.
+         
+3.  ###  To impleent unit test cases for the first time 
+         - The challenge was overcome by watching tutorials, reffering to L&T platforms like Futureskills.
