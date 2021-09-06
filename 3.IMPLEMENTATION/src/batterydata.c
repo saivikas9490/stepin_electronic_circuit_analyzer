@@ -23,7 +23,7 @@ double battery_data(int R, double voltage, double current, double days, double n
          */
         if(voltage == 9){
             if(powerRating <= 0.2 && current<=0.01){
-                printf("Use a Lithium Coin Cell - Voltage = 3V * 3 (in series), Power Rating = 200mAH\n");
+                printf("Use a Lithiu Coin Cell - Voltage = 3V * 3 (in series), Power Rating = 200mAH\n");
             }
             else if(powerRating <= 0.5 && current <= 0.03){
                 printf("Use a 9V PPS battery - Voltage = 9V, Power Rating = 500mAH\n");
