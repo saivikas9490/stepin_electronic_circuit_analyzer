@@ -10,7 +10,6 @@
 void setUp(){}
 /* Required by the unity test framework */
 void tearDown(){}
-
 /* function definition for all the functions to be tested*/
 void test_battery_data(void);
 void test_capacitor(void);
