@@ -1,6 +1,6 @@
 /**
  * @file fun.h
- * @author  (saivikas9490@gmail.com)
+ * @author  saivikas9490
  * @brief Header file for the project containing all the function definitions
  * @version 0.1
  * @date 2021-09-05
