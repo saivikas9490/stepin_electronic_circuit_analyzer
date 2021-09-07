@@ -3,6 +3,7 @@
 ![Code grade](https://www.code-inspector.com/project/27511/status/svg)
 ![Codacy Badge](https://api.codacy.com/project/badge/Grade/b49228005147402387676efb61fc0422)
 [![Cpp-check](https://github.com/saivikas9490/stepin_electronic_circuit_analyzer/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saivikas9490/stepin_electronic_circuit_analyzer/actions/workflows/cppcheck.yml)
+[![GitInspector](https://github.com/saivikas9490/stepin_electronic_circuit_analyzer/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saivikas9490/stepin_electronic_circuit_analyzer/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
 Folder               | Description
