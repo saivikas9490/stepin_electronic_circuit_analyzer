@@ -44,8 +44,6 @@ The system has the following benefits:
 
 ## SWOT ANALYSIS
 
-# 4W's 1H's 
-
 ## Who
 
     1. All students in high school or college level trying to use electronic circuitory.
