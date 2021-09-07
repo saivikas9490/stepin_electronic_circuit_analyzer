@@ -1,9 +1,9 @@
 /**
  * @file fun.h
- * @author 255923 (abhishekrshankar04@gmail.com)
+ * @author  (saivikas9490@gmail.com)
  * @brief Header file for the project containing all the function definitions
  * @version 0.1
- * @date 2021-04-12
+ * @date 2021-09-05
  * 
  * @copyright Copyright (c) 2021
  * 
