@@ -13,6 +13,12 @@ Folder               | Description
 `3_Implementation`   | All code and documentation
 `4_TestPlan`         | Documents with test plans and procedures
 
+## Contributors List and Summary
+
+PS No.     |  Name               |    Features                      | Issuess Raised |Issues Resolved |No of Test Cases|Test Cases Passed
+-----------|---------------------|----------------------------------|----------------|----------------|----------------|-----------------
+`99006251` | Sai Vikas           |  Mentioned Below (F1,F2,F3F4,F5) |  3             |  3             | 3              | 3      
+
 ## Features
 Feature  | Description
 ---------| -----------------------------------------
